@@ -1,2 +1,2 @@
-# design_patterns
+# Design_patterns
 This repo has been created to learn about design patterns usign Python.
